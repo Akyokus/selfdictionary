@@ -1,0 +1,4 @@
+C:\Users\mehme\source\repos\dictionaryProjects\x64\Debug\dictionaryProjects.vcxproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\dictionaryProjects\x64\Debug\dictionaryProjects.MyForm.resources
+C:\Users\mehme\source\repos\dictionaryProjects\x64\Debug\dictionaryProjects.vcxproj.GenerateResource.cache
+C:\Users\mehme\source\repos\dictionaryProjects\x64\Debug\dictionaryProjects.exe
